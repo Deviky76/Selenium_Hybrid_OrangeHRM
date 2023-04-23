@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48998" started-at="2023-04-02T10:29:10Z" finished-at="2023-04-02T10:29:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48998" started-at="2023-04-02T10:29:10Z" finished-at="2023-04-02T10:29:59Z">
+      <class name="orangehrm.testcases.OrangeHRMTestSuit">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:orangehrm.testcases.OrangeHRMTestSuit@5e5792a0]" name="launchApp" is-config="true" duration-ms="8300" started-at="2023-04-02T10:29:10Z" finished-at="2023-04-02T10:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="checkOrangeHRM()[pri:0, instance:orangehrm.testcases.OrangeHRMTestSuit@5e5792a0]" name="checkOrangeHRM" duration-ms="40387" started-at="2023-04-02T10:29:18Z" finished-at="2023-04-02T10:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOrangeHRM -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:orangehrm.testcases.OrangeHRMTestSuit@5e5792a0]" name="closeApp" is-config="true" duration-ms="292" started-at="2023-04-02T10:29:58Z" finished-at="2023-04-02T10:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- orangehrm.testcases.OrangeHRMTestSuit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
